@@ -1,5 +1,5 @@
 # https://www.hackerrank.com/challenges/journey-to-the-moon/problem
-# Lean disjoint set. BOOM
+# Learn disjoint set... BOOM
 class DisjointSet(object):
 
     def __init__(self):
