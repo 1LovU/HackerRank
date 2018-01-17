@@ -1,5 +1,5 @@
 # https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
-
+# surely a very old logic :D
 
 s =  input().strip()
 
